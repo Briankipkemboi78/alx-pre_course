@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 cat > up_to_date
+=======
+git pull
+>>>>>>> 92f64c5bd4fece1cda149619f1268f3a408d4da5
